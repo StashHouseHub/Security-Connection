@@ -14,6 +14,7 @@ Functions:
 Security-Tool
 -----------------
 __Run as Administrator__
+Functions:
 * Used to improve network security and gaming latency
 
 * Closes ports such as SMB 445, RPC 135, SNMP 161 and 162, TFTP 69, SOCKS 1080, NetBIOS 137 and 139
@@ -34,6 +35,7 @@ _Ports 6000-7000: Many modern games use dynamic ports in this range_
 FlushDNS
 ------------
 __Run as Administrator__
+Functions:
 * Removes all cached DNS entries on your machine, including both successful and failed lookups, forcing new queries to DNS servers
   
 * Ensures you get updated IP information if a site’s address has changed, instead of your device using an old, wrong record
