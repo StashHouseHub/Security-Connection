@@ -14,6 +14,7 @@ Functions:
 Security-Tool
 -----------------
 __Run as Administrator__
+
 Functions:
 * Used to improve network security and gaming latency
 
@@ -35,6 +36,7 @@ _Ports 6000-7000: Many modern games use dynamic ports in this range_
 FlushDNS
 ------------
 __Run as Administrator__
+
 Functions:
 * Removes all cached DNS entries on your machine, including both successful and failed lookups, forcing new queries to DNS servers
   
