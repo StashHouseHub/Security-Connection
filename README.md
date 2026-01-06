@@ -18,7 +18,7 @@ __Run as Administrator__
 Functions:
 * Used to improve network security and gaming latency
 
-* Closes ports such as SMB 445, RPC 135, SNMP 161 and 162, TFTP 69, SOCKS 1080, NetBIOS 137 and 139 (This is a security measure taken to reduce the possibility of an attack. Ability to use a printer may be affected, if so simply open the port that was closed)
+* Closes ports such as SMB 445, RPC 135, SNMP 161 and 162, TFTP 69, SOCKS 1080, NetBIOS 137 and 139 (This is a security measure taken to reduce the possibility of an attack. Ability to use a printer may be affected due to the ports used for a printer have been used by hackers.)
 
 * Flushes DNS then reboots system for changes that require a reboot
 
