@@ -1,4 +1,4 @@
-For FirewallPro
+FirewallPro
 ---------------
 __Run as Administrator__  
 
@@ -11,12 +11,12 @@ Functions:
 
   _Highly suggest learning about ports and their functions. Learn the difference between normal "chatter" and a real potenial attack when using the FirewallPro_
 
-For Security-Tool
+Security-Tool
 -----------------
 __Run as Administrator__
 * Used to improve network security and gaming latency
 
-For FlushDNS
+FlushDNS
 ------------
 __Run as Administrator__
 * Removes all cached DNS entries on your machine, including both successful and failed lookups, forcing new queries to DNS servers
