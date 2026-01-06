@@ -20,6 +20,7 @@ __Run as Administrator__
 
 * Flushes DNS then reboots system for changes that require as reboot
 
+
 __PORTS TO NEVER BLOCK:__
 
 _Port 53 (DNS): Outbound only; keep inbound blocked_
