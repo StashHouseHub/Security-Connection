@@ -21,9 +21,13 @@ __Run as Administrator__
 * Flushes DNS then reboots system for changes that require as reboot
 
 __PORTS TO NEVER BLOCK:__
+
 _Port 53 (DNS): Outbound only; keep inbound blocked_
+
 _Ports 80 and 443 (HTTP/HTTPS): Critical for web browsing and game downloads_
+
 _Ports 3074 and 3478 (Xbox Live/PlayStation Network): Required for online gaming_
+
 _Ports 6000-7000: Many modern games use dynamic ports in this range_
 
 FlushDNS
