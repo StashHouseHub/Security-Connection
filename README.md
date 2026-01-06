@@ -20,6 +20,9 @@ For FlushDNS
 ------------
 __Run as Administrator__
 * Removes all cached DNS entries on your machine, including both successful and failed lookups, forcing new queries to DNS servers
+  
 * Ensures you get updated IP information if a site’s address has changed, instead of your device using an old, wrong record
+
 * Clears potentially corrupted or tampered DNS cache data that could be causing errors or redirecting you incorrectly
+  
 * Improve privacy slightly by wiping local DNS history that reveals what domains you’ve recently visited
