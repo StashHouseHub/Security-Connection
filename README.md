@@ -20,7 +20,7 @@ Functions:
 
 * Closes ports such as SMB 445, RPC 135, SNMP 161 and 162, TFTP 69, SOCKS 1080, NetBIOS 137 and 139
 
-* Flushes DNS then reboots system for changes that require as reboot
+* Flushes DNS then reboots system for changes that require a reboot
 
 
 __PORTS TO NEVER BLOCK:__
