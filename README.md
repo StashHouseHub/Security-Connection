@@ -8,7 +8,7 @@ Functions:
 * Shows Firewall status and profiles
 * Scans common local IPs, broadcasts, and mDNS for potenial attacks every 100 entries
 
-* Highly suggest learning about ports and their functions. Learn the difference between normal "chatter" and a real potenial attack when using the FirewallPro *
+  Highly suggest learning about ports and their functions. Learn the difference between normal "chatter" and a real potenial attack when using the FirewallPro*
 
 For Security-Tool
 -----------------
