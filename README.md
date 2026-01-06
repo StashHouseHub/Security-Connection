@@ -12,6 +12,5 @@ Functions:
 
 For Security-Tool
 -----------------
-Run as Administrator
-
+__Run as Administrator__
 * Used to improve network security and gaming latency
