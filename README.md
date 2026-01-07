@@ -57,4 +57,12 @@ Functions:
 
 * Sets TCP AutoTuning Level to Normal
 
-* Resets TCP/IP, Windows Sockets Catalog, 
+* Resets TCP/IP stack and Windows Sockets Catalog
+
+* Flushes DNS cache
+
+* Releases current IP and then renews it
+
+* Clear ARP cache
+
+* Optimizes MTU sets it to 1500 for standard networks
