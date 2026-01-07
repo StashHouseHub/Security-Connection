@@ -11,7 +11,7 @@ Functions:
 
   _Highly suggest learning about ports and their functions. Learn the difference between normal "chatter" and a real potenial attack when using the FirewallPro_
 
-Security-Tool
+Security-Tool.bat
 -----------------
 __Run as Administrator__
 
@@ -45,3 +45,16 @@ Functions:
 * Clears potentially corrupted or tampered DNS cache data that could be causing errors or redirecting you incorrectly
   
 * Improve privacy slightly by wiping local DNS history that reveals what domains you’ve recently visited
+
+DownloadOptimization.bat
+------------------------
+__Run as Administrator__
+
+Functions:
+* Disables Network Heuristics and ECN
+
+* Enables RSS and CTCP
+
+* Sets TCP AutoTuning Level to Normal
+
+* Resets TCP/IP, Windows Sockets Catalog, 
